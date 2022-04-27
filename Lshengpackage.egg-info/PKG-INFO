@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: Lshengpackage
+Version: 0.2.6
+Summary: 自动化开源
+Home-page: https://github.com/Lsheng0-0/package
+Author: Lsheng0-0
+Author-email: 1522833718@qq.com
+License: MIT
+Download-URL: https://github.com/Lsheng0-0/package
+Keywords: Game,Auto
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+License-File: LICENSE.txt
+License-File: License.md
+
+UNKNOWN
+

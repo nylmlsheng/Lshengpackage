@@ -1,22 +1,22 @@
 from distutils.core import setup
 
-
 setup(
     name='Lshengpackage',  # How you named your package folder (MyLib)
     packages=['Lshengpackage'],  # Chose the same as "name"
-    version='0.2.2',  # Start with a small number and increase it with every change you make
+    version='0.2.6',  # Start with a small number and increase it with every change you make
     license='MIT',  # Chose a license from here: https://help.github.com/articles/licensing-a-repository
     description='自动化开源',  # Give a short description about your library
     author='Lsheng0-0',  # Type in your name
     author_email='1522833718@qq.com',  # Type in your E-Mail
     url='https://github.com/Lsheng0-0/package',  # Provide either the link to your github or to your website
     download_url='https://github.com/Lsheng0-0/package',  # I explain this later on
-    keywords=['Game', 'Adb', 'Auto'],  # Keywords that define your package best
+    keywords=['Game','Auto'],  # Keywords that define your package best
     install_requires=[  # I get to this in a second
         'numpy~=1.21.6',  # 可以加上版本号，如validators=1.5.1
         'aircv~=1.4.6',
         'Pillow~=9.1.0',
         'opencv-python~=4.5.5.64',
+        'comtypes~=1.1.11',
         'PIC~=0.1.0'
     ],
     classifiers=[
@@ -30,5 +30,5 @@ setup(
         'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
-    ],
-)
+        'Programming Language :: Python :: 3.7'
+    ], )

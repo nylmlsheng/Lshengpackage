@@ -1,0 +1,17 @@
+LICENSE.txt
+License.md
+README.md
+setup.cfg
+setup.py
+Lshengpackage/Command_adb.py
+Lshengpackage/Delay.py
+Lshengpackage/Pac_adb.py
+Lshengpackage/Pac_dm.py
+Lshengpackage/Reg.py
+Lshengpackage/Windows.py
+Lshengpackage/__init__.py
+Lshengpackage.egg-info/PKG-INFO
+Lshengpackage.egg-info/SOURCES.txt
+Lshengpackage.egg-info/dependency_links.txt
+Lshengpackage.egg-info/requires.txt
+Lshengpackage.egg-info/top_level.txt
