@@ -33,4 +33,21 @@ com.install('apk_name')     #安装程序：无需后缀，默认apk文件安装
 com.uninstall('apk_name')   #卸载程序：无需后缀，默认apk文件卸载
 com.video_scr('video_name')     #屏幕录制：保存视频到手机根目录/sdcard/..,名称,默认mp4格式
 ```
+> ###关于超级鹰验证码识别的调用-Python
+>[注册超级鹰账号](http://www.chaojiying.com/user/reg/)
+
+用户中心 ->软件ID ->生成软件ID
+
+调用方法：
+```python
+from Lshengpackage.chaojiying import Verification
+# 处理验证码
+
+verify = Verification() #调用超级鹰模块
+verify_code = verify.verification_code('超级鹰登录用户名', '超级鹰登录密码', '软件ID号',img)
+#外部请求超级鹰，img为验证码路劲图片文件
+print(verify_code['pic_str'])
+#打印验证码
+```
+
 
