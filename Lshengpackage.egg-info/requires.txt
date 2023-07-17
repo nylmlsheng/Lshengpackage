@@ -1,0 +1,9 @@
+openpyxl
+pandas
+PyAutoGUI
+pyperclip
+opencv-python
+Pillow
+aircv
+numpy
+requests

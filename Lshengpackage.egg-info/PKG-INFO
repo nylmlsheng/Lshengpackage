@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: Lshengpackage
+Version: 0.4.5
+Summary: 个人自动化爬虫开源学习
+Home-page: https://lsheng0-0.github.io/
+Download-URL: https://github.com/Lsheng0-0/package
+Author: Lsheng0-0
+Author-email: 1522833718@qq.com
+License: MIT
+Keywords: 游戏,办公,自动化,爬虫
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.9
+License-File: LICENSE
+License-File: License.md

@@ -1,0 +1,8 @@
+include README.md
+include LICENSE
+include requirements.txt
+recursive-include Lshengpackage/simulate *
+recursive-include Lshengpackage/simulate/adb *
+recursive-include Lshengpackage/simulate/adb/dingtalk *
+recursive-include Lshengpackage/simulate/dm *
+recursive-include Lshengpackage/tools *
